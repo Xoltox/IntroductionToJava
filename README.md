@@ -1,1 +1,1 @@
-Java Project made in submission for course CSC250 - Introduction to Java
+Exercise/Practice programms placed in exercise package
